@@ -21,7 +21,8 @@ class Home extends StatelessWidget {
       body: SafeArea(
         child: Container(
           padding: EdgeInsets.all(16),
-          child: FeatureStar(
+          child:
+          FeatureStar(
             data: [
               FeatureData(featureText: 'Landlord', rate: 4.8, starColor: Colors.red),
               FeatureData(featureText: 'Property', rate: 5.0),
