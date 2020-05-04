@@ -8,7 +8,7 @@ A star rating package with features
 
 ```yaml
 dependencies:  
-  featurestar  : ^1.0.0
+  featurestar  : ^1.1.0
 ```
 
 ```console

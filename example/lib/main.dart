@@ -24,7 +24,7 @@ class Home extends StatelessWidget {
           child:
           FeatureStar(
             data: [
-              FeatureData(featureText: 'Landlord', rate: 4.8, starColor: Colors.red),
+              FeatureData(featureText: 'Landlord', rate: 3.8, starColor: Colors.red),
               FeatureData(featureText: 'Property', rate: 5.0),
               FeatureData(featureText: 'Neighborhood', rate: 4.5),
             ],

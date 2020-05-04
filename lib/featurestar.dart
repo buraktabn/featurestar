@@ -28,7 +28,7 @@ class FeatureStar extends StatelessWidget {
           Row(
             children: <Widget>[
               StarDisplay(
-                value: x.rate.toInt(),
+                value: x.rate,
                 size: x.starSize,
                 color: x.starColor,
               ),
